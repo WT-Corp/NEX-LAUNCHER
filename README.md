@@ -1,7 +1,7 @@
 # NEX-LAUNCHER
 A launcher that plans to connect with steamworks api
 
-> **Note:** Nex Launcher is designed to be an ecosystem ally. **We do not compete with Steam**—we enhance local performance, streamline game launching, and respect the core Steam infrastructure.
+> **Note:** Nex Launcher is designed to be an ecosystem ally. **We do not compete with Steam** we enhance local performance, streamline game launching, and respect the core Steam infrastructure.
 
 ---
 
