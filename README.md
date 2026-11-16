@@ -23,6 +23,9 @@ Nex Launcher is being built in structured phases, with a clear focus on official
 
 ---
 
+### Status
+Development is paused for the time it will come back shortly.
+
 ## License
 Copyright (C) 2026 WT Corp. All rights reserved. 
 This software is proprietary. Unauthorized copying, distribution, or modification is strictly prohibited.
